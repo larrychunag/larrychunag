@@ -34,6 +34,8 @@ I'm Larry Chuang,a junior software engrinner in Japan. Major in Statistic and In
 - [Lint-Staged](https://www.npmjs.com/package/lint-staged)
 - [pretty-quick](https://www.npmjs.com/package/pretty-quick)
 - Vercel
+- Husky
+- Github Action
 #### Learning 
 - ESlint formatter develop
 - Docker
